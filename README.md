@@ -1,6 +1,6 @@
 # connect4
 
-A 2 player GUI based implmentation of connect4 in python(3.7.7).
+A GUI based implmentation of connect4 in python(3.7.7).
 
 ## Prerequisites
 
